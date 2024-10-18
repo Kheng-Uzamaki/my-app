@@ -1,0 +1,24 @@
+{
+  "feedback": [
+    {
+      "id": "1",
+      "rating": 10,
+      "text": "This is a great product and service."
+    },
+    {
+      "id": "2",
+      "rating": 9,
+      "text": "This is a beautiful UI."
+    },
+    {
+      "id": "3",
+      "rating": 8,
+      "text": "This is a great website."
+    },
+    {
+      "text": "This is new testing2",
+      "rating": 8,
+      "id": "f353"
+    }
+  ]
+}
